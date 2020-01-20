@@ -1,0 +1,20 @@
+{
+  "name": "htdocs/Evidence_Izposojenega_Gradiva",
+  "description": "Functional testing",
+  "minimum-stability": "stable",
+  "licence": "FERI",
+  "authors": [
+    {
+      "name": "Niko Hustic",
+      "email": "niko.husti22@gmail.com"
+    }
+  ],
+  "require": {
+    "codeception/codeception": "3.1.2"
+  },
+
+  "require": {
+
+    "pdepend/pdepend" : "@stable"
+  }
+}
